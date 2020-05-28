@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Credit
+This project was a ment for practicing how to work with react components and was taught though a youtube channel
+called Programming with Mosh. The purpose on this was to understand the fundamentals of react and how to manipulate 
+react components covering props, raising and handling events, lifing states, as well as life cycle hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
